@@ -25,5 +25,5 @@ You can then run the binary  as follows `./SieveOfEratosthenes`
 
 `Number of primes : 50847534`
 
-`Primes saved to sieve.txt`
+`Primes saved to primes.txt`
 
