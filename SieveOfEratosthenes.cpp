@@ -75,7 +75,7 @@ int main() {
     int stop_s=clock();
     cout << "Runtime to generate primes : " << (stop_s-start_s)/double(CLOCKS_PER_SEC)*1000 << " ms" << endl;
     cout << "Number of primes : " <<  result.size() << endl;
-    cout << "Primes saved to sieve.txt" << endl;
+    cout << "Primes saved to primes.txt" << endl;
     save("primes.txt", result);
     //print(result);
     return 0;
