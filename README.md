@@ -9,20 +9,21 @@ Find primes within a range using the [Sieve Of Eratosthenes](https://en.wikipedi
 
 Go into the directory that contain this README and enter the following commands
 
-`mkdir -p build
+`mkdir -p build`
 
-cd build
+`cd build`
 
-cmake3 ..
+`cmake3 ..`
 
-make` 
+`make` 
 
-You can then the binary  as follows `./SieveOfEratosthenes`
+You can then run the binary  as follows `./SieveOfEratosthenes`
 
 # Performance
 
-`Runtime to generate primes : 9201 ms
-Number of primes : 50847534
-Primes saved to sieve.txt`
+`Runtime to generate primes : 9201 ms`
 
+`Number of primes : 50847534`
+
+`Primes saved to sieve.txt`
 
